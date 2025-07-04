@@ -1,0 +1,16 @@
+.ota {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.btn {
+  background-color: inherit;
+  border: none;
+  font-size: 40px;
+}
+button {
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 30px;
+  margin: 1px 20px;
+}
